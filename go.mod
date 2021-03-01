@@ -1,0 +1,1 @@
+module "navicat-cli"
